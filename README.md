@@ -1,0 +1,1 @@
+This project is the first project for The Odin Project. The course is asking to use basic HTML to create a recipes website.
